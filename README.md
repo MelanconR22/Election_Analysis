@@ -18,5 +18,6 @@ The total number of votes per candidate breaks down as follows.  Raymon Anthony 
 Diana DeGette received the most votes for this election and is the winner.  Diana received 272,892 total votes which equates to 73.8% of the total votes. 
 
 # Election-Audit Summary:  
+The data provided was analyzed using this script to determine not only the overall winner as well as county voting information.  In the future, this script can be altered and used to handle more candidates as well as more county information.   
 updated for county 
 updated for candidates
